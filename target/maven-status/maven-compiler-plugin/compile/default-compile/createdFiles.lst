@@ -1,8 +1,0 @@
-com\miguel\apiusuarios\web\ApiError.class
-com\miguel\apiusuarios\APIUsuariosApplication.class
-com\miguel\apiusuarios\service\impl\UsuarioServiceImpl.class
-com\miguel\apiusuarios\service\UsuarioService.class
-com\miguel\apiusuarios\domain\Usuario.class
-com\miguel\apiusuarios\web\GlobalExceptionHandler.class
-com\miguel\apiusuarios\controller\UsuarioController.class
-com\miguel\apiusuarios\controller\HealthController.class

@@ -1,0 +1,23 @@
+# --- Maven ---
+target/
+**/target/
+
+# --- NetBeans ---
+nbproject/private/
+nbactions.xml
+nbactions-*.xml
+
+# --- IDEs ---
+.idea/
+*.iml
+.vscode/
+
+# --- Logs y OS ---
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# --- Postman env locales ---
+*.postman_environment.json
+
